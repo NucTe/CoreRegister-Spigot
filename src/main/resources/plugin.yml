@@ -1,0 +1,4 @@
+name: CoreRegister-Spigot
+version: '${project.version}'
+main: me.nuclearteam.coreregisterspigot.CoreRegister_Spigot
+load: STARTUP
